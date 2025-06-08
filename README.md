@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Java Developer and Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simply-hemant&label=Profile%20views&color=0e75b6&style=flat" alt="simply-hemant" />
+  <img src="https://komarev.com/ghpvc/?username=simply-hemant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **hemant23dev@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/drive/folders/1lceNDCQDFugfqdzmrD4dbeb0Na9SqPF3)
+- 📄 [My Resume](https://drive.google.com/file/d/1lceNDCQDFugfqdzmrD4dbeb0Na9SqPF3/view?usp=sharing)
 
 - ⚡ Fun fact: *I debug my dreams in Java 😄*
 
@@ -26,7 +26,7 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/hemant-singh-a2aaa7208" target="_blank">
+  <a href="https://www.linkedin.com/in/hemant-singh-a2aaa7208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/simply_hemant_" target="_blank">
@@ -50,13 +50,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
 </p>
