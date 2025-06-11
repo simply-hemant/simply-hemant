@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **hemant23dev@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1zxfWmG0tmeMKsMVfbhyjAmx6dR5y2cgi/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1zxfWmG0tmeMKsMVfbhyjAmx6dR5y2cgi/view?usp=sharing)
 
 - ⚡ Fun fact: *I debug my dreams in Java 😄*
 
